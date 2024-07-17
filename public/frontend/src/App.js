@@ -40,7 +40,7 @@ function App() {
             <Content className="App-Content">
                 <div className="image-uploader">
                     <LocateElement
-                        apigateway="https://3dr34k7u6c.execute-api.us-east-1.amazonaws.com/beta/" />
+                        apigateway="https://klbtvytpug.execute-api.us-west-2.amazonaws.com/beta/" />
 
                 </div>
 
